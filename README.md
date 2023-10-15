@@ -2,8 +2,10 @@
 
 [![Build](https://github.com/SoftbearStudios/mk48/actions/workflows/build.yml/badge.svg)](https://github.com/SoftbearStudios/mk48/actions/workflows/build.yml)
 <a href='https://discord.gg/YMheuFQWTX'>
-  <img src='https://softbear.com/mk48_teaser.png' alt='Mk48.io Discord' />
+  <img src='https://img.shields.io/badge/Mk48.io-%23announcements-blue.svg' alt='Mk48.io Discord' />
 </a>
+
+![Logo](https://softbear.com/mk48_teaser.png)
 
 [Mk48.io](https://mk48.io) is an online multiplayer naval combat game, in which you take command of a ship and sail your way to victory. Watch out for torpedoes!
 
