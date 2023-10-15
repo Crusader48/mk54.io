@@ -5,8 +5,6 @@
   <img src='https://softbear.com/mk48_teaser.png' alt='Mk48.io Discord' />
 </a>
 
-![Logo](/client/logo-712.png)
-
 [Mk48.io](https://mk48.io) is an online multiplayer naval combat game, in which you take command of a ship and sail your way to victory. Watch out for torpedoes!
 
 - [Ship Suggestions](https://github.com/SoftbearStudios/mk48/discussions/132)
