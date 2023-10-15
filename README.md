@@ -1,8 +1,8 @@
-# Mk48.io Game
+# Mk54.io Game
 
 [![Build](https://github.com/SoftbearStudios/mk48/actions/workflows/build.yml/badge.svg)](https://github.com/SoftbearStudios/mk48/actions/workflows/build.yml)
 <a href='https://discord.gg/YMheuFQWTX'>
-  <img src='https://img.shields.io/badge/Mk48.io-%23announcements-blue.svg' alt='Mk48.io Discord' />
+  <img src='https://softbear.com/mk48_teaser.png' alt='Mk48.io Discord' />
 </a>
 
 ![Logo](/client/logo-712.png)
